@@ -12,10 +12,10 @@ export default function Home(): JSX.Element {
   return (
     <>
       <Head>
-        <title>I0rd - Decentralized AI-Powered Crypto Trading on 0G Blockchain</title>
+        <title>BlitzSwap - Decentralized AI-Powered Crypto Trading on Linera Blockchain</title>
         <meta
           name="description"
-          content="I0rd is a decentralized, AI-powered crypto trading app built on 0G’s Modular Layer 1 blockchain. Trade crypto with real-time analysis, AI insights, and community tools for transparent, accessible trading."
+          content="BlitzSwap is a decentralized, AI-powered crypto trading app built on Linera's Modular Layer 1 blockchain. Trade crypto with real-time analysis, AI insights, and community tools for transparent, accessible trading."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
